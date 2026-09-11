@@ -1,484 +1,452 @@
-Rob Prado
+<div align="center">
 
-Senior React Native Engineer • Mobile Architecture • TypeScript • Developer Tooling
+# Rob Prado
 
-Senior software engineer focused on React Native, TypeScript, mobile architecture, developer tooling, and AI-assisted software engineering.
+### Senior React Native Engineer · Mobile Architecture · TypeScript · Developer Tooling
 
-I build maintainable mobile applications and engineering tools that turn architecture, business rules, and development workflows into explicit, reproducible, and verifiable systems.
+**Building maintainable mobile systems, reproducible developer tooling, and disciplined AI-assisted engineering workflows.**
 
 📍 São Paulo, Brazil · UTC−3
-💼 Senior React Native / Mobile Software Engineer
-🔎 Selectively open to Senior React Native, Senior Mobile, Mobile Architecture, React/TypeScript, and Developer Tooling opportunities
 
-Versão em Português
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robpradost-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/robpradost)
+[![GitHub](https://img.shields.io/badge/GitHub-rob--prado-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rob-prado)
+[![Email](https://img.shields.io/badge/Email-rob.dev.prado%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rob.dev.prado@gmail.com)
 
-⸻
+**[English](#-about-me) · [Português](#-sobre-mim)**
 
-Engineering Focus
+</div>
 
-My work currently sits at the intersection of three areas.
+---
 
-Mobile Engineering — Primary
+## 👨‍💻 About Me
 
-React Native · React · TypeScript · Mobile Architecture
+Senior software engineer specializing in **React Native, React, and TypeScript**, with a strong focus on mobile architecture, developer tooling, automation, and AI-assisted software engineering.
 
-Building production mobile applications with an emphasis on:
+My work centers around a simple engineering principle:
 
-* maintainable architecture and clear boundaries;
-* explicit business rules;
-* strong type safety;
-* predictable state and data flows;
-* testability;
-* native iOS/Android integration;
-* reducing accidental complexity.
+> **Make knowledge explicit, workflows reproducible, and software easier to reason about.**
 
-Developer Tooling & Automation
+I build production mobile applications and engineering tools with an emphasis on **maintainability, type safety, testability, explicit business rules, and reduced accidental complexity**.
 
-Node.js · Bash · CLI Design · Environment Automation
+```text
+Primary       → React Native · Mobile Engineering · TypeScript
+Secondary     → Developer Tooling · CLI · Automation
+Emerging      → AI-Assisted Software Engineering · Multi-Agent Workflows
+```
 
-Building tools that make engineering workflows reproducible:
+---
 
-* CLI tooling;
-* deterministic development environments;
-* idempotent automation;
-* scaffolding and project orchestration;
-* environment health checks;
-* snapshot and drift detection;
-* developer workflow automation.
+## 🎯 Engineering Focus
 
-AI-Assisted Software Engineering — Emerging Specialization
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Exploring how coding agents can operate inside real engineering constraints rather than treating AI-generated code as an isolated activity.
+### 📱 Mobile Engineering
 
-My focus is on environments where agents work with:
+My primary engineering domain.
 
-* explicit architectural rules;
-* documented business knowledge;
-* deterministic workflows;
-* automated verification;
-* repository-level context;
-* specialized agent responsibilities;
-* human review and final accountability.
+- React Native
+- React
+- TypeScript
+- Mobile Architecture
+- iOS / Android
+- State & Data Flows
+- Testing
+- Business Rules
+- Native Integration
 
-The common thread across these areas is engineering reliability and developer experience: encode knowledge, reduce ambiguity, automate repeatable work, and make systems easier to understand and maintain.
+</td>
+<td width="33%" valign="top">
 
-⸻
+### 🛠️ Developer Tooling
 
-Core Skills
+Engineering the environment around the code.
 
-1. React Native
-2. TypeScript
-3. React
-4. Mobile Software Architecture
-5. Developer Tooling & Automation
-6. AI-Assisted Software Engineering
+- Node.js CLIs
+- Bash / Shell
+- Automation
+- Scaffolding
+- Environment Setup
+- Idempotency
+- Health Checks
+- Drift Detection
+- Reproducibility
 
-Technology
+</td>
+<td width="33%" valign="top">
 
-React Native · React 19 · TypeScript · JavaScript / ESNext · Next.js · Node.js · TanStack Query · Zustand · React Context · React Hook Form · Zod · Jest · React Native Testing Library · Git · Bash / Shell
+### 🤖 AI-Assisted Engineering
 
-⸻
+Making coding agents operate within real engineering constraints.
 
-Engineering Principles
+- Multi-Agent Workflows
+- Architectural Rules
+- Business Knowledge
+- Repository Context
+- Verification Gates
+- Agent Specialization
+- Auditable Workflows
+- Human Review
 
-I favor engineering practices that make intent visible in both application code and tooling.
+</td>
+</tr>
+</table>
 
-Architecture
+---
 
-* Explicit business rules
-* Strong domain boundaries
-* Clear API contracts
-* Separation of concerns
-* Type safety at system boundaries
-* Locality over unnecessary abstraction
+## ⚙️ Tech Stack
 
-Automation
+### Core
 
-* Idempotent operations
-* Deterministic execution
-* Catalog + lockfile patterns
-* Safe scaffolding and project mutations
-* Explicit validation before destructive operations
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ESNext-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-Verification
+### Application Engineering
 
-* Automated tests
-* Health checks
-* Environment snapshots
-* Drift detection
-* Reproducible workflows
-* Auditable automation
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-Collaboration
+`Zustand` · `React Context` · `React Hook Form` · `React Native Testing Library`
 
-* Small, well-scoped changes
-* Documented engineering decisions
-* Explicit CLI workflows
-* Architecture and business context stored alongside code
-* Human review as part of AI-assisted development
+### Tooling
 
-⸻
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-Featured Projects
+`CLI Design` · `Developer Automation` · `Environment Orchestration`
 
-azure-boards-importer
+---
 
-Node.js · CLI · Azure DevOps · Developer Tooling · AI Context
+# 🚀 Featured Projects
 
-A CLI for importing Azure Boards work items and their supporting material into structured local engineering contexts.
+## 🔷 azure-boards-importer
 
-It converts PBIs, Bugs, Tasks, attachments, images, and documents into a reproducible workspace such as:
+[![Repository](https://img.shields.io/badge/Repository-azure--boards--importer-181717?style=flat-square&logo=github)](https://github.com/rob-prado/azure-boards-importer)
+![Node.js](https://img.shields.io/badge/Node.js-CLI-339933?style=flat-square&logo=node.js&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
+**Turn Azure Boards work items into structured, reproducible engineering contexts.**
+
+A Node.js CLI that imports **PBIs, Bugs, Tasks, attachments, images, and documents** from Azure Boards into a standardized local workspace.
+
+```text
 work-item/
 ├── 01-context/
 ├── 02-tasks/
 ├── 03-images/
 ├── 04-docs/
 └── README.md
+```
 
-The resulting structure can be used for local engineering documentation or as structured context for AI-assisted development workflows.
+The resulting workspace can be used for conventional engineering documentation or supplied as structured context to AI-assisted development workflows.
 
-Highlights
+**Key ideas:** `Azure Boards` · `Structured Context` · `CLI` · `Automation` · `AI Context`
+
+---
+
+## 🍎 macos-dev-setup
+
+[![Repository](https://img.shields.io/badge/Repository-macos--dev--setup-181717?style=flat-square&logo=github)](https://github.com/rob-prado/macos-dev-setup)
+![Platform](https://img.shields.io/badge/Platform-macOS-lightgrey?style=flat-square&logo=apple)
+![Shell](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+
+**Reproducible macOS development environments instead of undocumented workstation state.**
+
+A modular, catalog-driven development environment orchestrator built around:
+
+```text
+Catalog + Lockfile
+        ↓
+Dependency Resolution
+        ↓
+Installation
+        ↓
+Snapshot
+        ↓
+Health Check
+        ↓
+Drift Detection
+```
+
+### Highlights
+
+- 📦 JSON catalog + lockfile
+- 🔗 Dependency resolution
+- 🔧 `mise` integration
+- 🔍 Project-aware version detection
+- 📸 Snapshot export/import
+- 🩺 Environment health checks
+- ↔️ Drift detection
+- 🖥️ Optional `gum` TUI
+- 🧹 Uninstall and cleanup workflows
+- ♻️ Idempotent operations
+
+---
+
+## 📱 capo-cli
+
+[![Repository](https://img.shields.io/badge/Repository-capo--cli-181717?style=flat-square&logo=github)](https://github.com/rob-prado/capo-cli)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-Orchestrator-339933?style=flat-square&logo=node.js&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-Executor-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Safe orchestration and native automation for whitelabel React Native applications.**
+
+```text
+             ┌─────────────────────┐
+             │      capo-cli       │
+             │ Node.js Orchestrator│
+             └──────────┬──────────┘
+                        │
+              ┌─────────▼─────────┐
+              │   Bash Executor   │
+              └─────────┬─────────┘
+                        │
+          ┌─────────────┴─────────────┐
+          ▼                           ▼
+     iOS project                 Android project
+```
+
+### Capabilities
+
+- Multi-brand bootstrapping
+- Idempotent scaffolding
+- Dynamic command loading
+- Firebase configuration injection
+- Icons and bootsplash automation
+- iOS namespace transformations
+- Android namespace transformations
+- Controlled native project mutations
 
-* Azure Boards work-item import
-* Attachment and documentation retrieval
-* Configuration-driven behavior
-* Standardized local workspace structure
-* AI-context-oriented exports
-* Azure DevOps PAT authentication
-* Reproducible CLI workflow
+**Key ideas:** `React Native` · `Whitelabel` · `Native Automation` · `DX` · `Idempotency`
 
-Repository: https://github.com/rob-prado/azure-boards-importer
+---
 
-⸻
+# 🧠 Private Flagship
 
-macos-dev-setup
+## 🔒 agents-sync
 
-Bash · macOS · Developer Environments · Automation
+![Private](https://img.shields.io/badge/Repository-Private-important?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active_R%26D-blueviolet?style=flat-square)
+![Platforms](https://img.shields.io/badge/Platforms-macOS_%7C_Windows-lightgrey?style=flat-square)
 
-A modular macOS development-environment orchestrator designed around determinism, reproducibility, and recoverability.
+> **A multi-repository engineering harness for disciplined AI-assisted software development.**
 
-Instead of treating workstation configuration as a collection of installation scripts, the project models the environment through a catalog and lockfile.
+`agents-sync` is my primary private R&D project exploring how coding agents can operate across real software repositories while respecting **architecture, business rules, engineering standards, verification requirements, and human review**.
 
-Highlights
+### Multi-Agent Model
 
-* JSON catalog + lockfile
-* Dependency resolution
-* mise integration
-* Project-aware version detection
-* Snapshot export/import
-* Environment drift detection
-* Health checks
-* Optional interactive TUI with gum
-* Uninstall and cleanup workflows
-* Idempotent environment operations
+```text
+                 ┌─────────────────────┐
+                 │     agents-sync     │
+                 │  Shared Engineering │
+                 │       Context       │
+                 └──────────┬──────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+       Developer        Senior Eng.     Reviewer /
+         Agent          + Architect      Corrector
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                    Consumer Projects
+```
 
-The goal is to make rebuilding or validating a development workstation predictable rather than relying on undocumented machine state.
+### What it explores
 
-Repository: https://github.com/rob-prado/macos-dev-setup
+<table>
+<tr>
+<td width="33%" valign="top">
 
-⸻
+#### Knowledge
 
-capo-cli
+- Architectural rules
+- Business rules
+- Repository conventions
+- Reviewer feedback
+- Project context
 
-React Native · Node.js · Bash · CLI · Whitelabel Automation
+</td>
+<td width="33%" valign="top">
 
-A CLI and orchestration framework for managing whitelabel React Native applications.
+#### Coordination
 
-The project combines a Node.js orchestration layer with a Bash execution layer responsible for controlled native project mutations.
+- Specialized agents
+- Multi-repository workflows
+- Shared/local context
+- Cross-project synchronization
+- Workflow policies
 
-Highlights
+</td>
+<td width="33%" valign="top">
 
-* Multi-brand React Native bootstrapping
-* Idempotent scaffolding
-* Dynamic command loading
-* Native asset injection
-* Firebase configuration management
-* Icon and bootsplash automation
-* iOS namespace transformations
-* Android namespace transformations
-* Safe native project mutations
-* Automated validation and development safeguards
+#### Verification
 
-The project focuses on reducing the complexity and risk involved in maintaining multiple branded variants of the same React Native application.
+- Static checks
+- Verification gates
+- Health checks
+- Deterministic configuration
+- Auditable operations
 
-Repository: https://github.com/rob-prado/capo-cli
+</td>
+</tr>
+</table>
 
-⸻
+The goal is not simply to generate more code with AI.
 
-agents-sync — Private Flagship Project
+> **The goal is to make AI-assisted development behave like disciplined software engineering.**
 
-AI Engineering · Multi-Agent Workflows · Developer Tooling · Architecture
+---
 
-agents-sync is my primary private R&D project for multi-repository AI-assisted software engineering.
+## 🧩 Engineering Principles
 
-It explores how multiple coding agents can operate across real software projects while remaining constrained by the same architecture, business knowledge, engineering standards, and verification requirements expected from human contributors.
+```text
+Explicit knowledge       > tribal knowledge
+Reproducible workflows   > machine-specific state
+Idempotent operations    > fragile scripts
+Business rules           > unexplained conditionals
+Verification             > assumed correctness
+Architecture constraints > unconstrained generation
+Human accountability     > autonomous trust
+```
 
-The system coordinates specialized agent roles across multiple consumer repositories and development environments.
+---
 
-Areas being explored include:
+## 🌱 Open Source
 
-* multi-agent engineering workflows;
-* repository-specific architectural rules;
-* business-rule catalogs;
-* shared and project-local agent context;
-* cross-repository synchronization;
-* deterministic configuration;
-* automated verification;
-* environment health checks;
-* workflow policies;
-* auditable agent operations;
-* macOS and Windows portability.
+### ai-memory
 
-The project currently uses specialized responsibilities such as implementation, senior engineering/architecture, and review/correction rather than treating every coding agent as interchangeable.
+[![Repository](https://img.shields.io/badge/Open_Source-ai--memory-181717?style=flat-square&logo=github)](https://github.com/akitaonrails/ai-memory)
 
-agents-sync remains intentionally private while its architecture and workflows continue to evolve.
+Contributor to **ai-memory**, an open-source project exploring persistent memory infrastructure for AI coding agents.
 
-⸻
+---
 
-Open Source Contributions
+## 📊 GitHub Stats
 
-Contributor to ai-memory, an open-source project exploring persistent memory infrastructure for AI coding agents.
+<div align="center">
 
-https://github.com/akitaonrails/ai-memory
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rob-prado&show_icons=true&hide_border=true" />
 
-⸻
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&hide_border=true" />
 
-What I’m Exploring
+</div>
 
-A recurring question behind my tooling work is:
+---
 
-How can we make AI-assisted development behave more like disciplined software engineering and less like unconstrained code generation?
+## 💼 Opportunities
 
-That means experimenting with ways to encode:
+I'm **selectively open** to roles involving:
 
-* architectural decisions;
-* business rules;
-* reviewer feedback;
-* repository conventions;
-* verification requirements;
-* agent responsibilities;
+**Senior React Native · Senior Mobile Engineering · Mobile Architecture · React / TypeScript · Developer Tooling**
 
-so they become part of the engineering environment itself rather than knowledge that exists only in conversations or individual developers’ heads.
+Particularly interested in engineering environments that value:
 
-⸻
+`Architecture` · `Engineering Standards` · `Developer Experience` · `Automation` · `Reproducibility` · `Pragmatic AI-Assisted Development`
 
-GitHub Stats
+---
 
-⸻
+## 📬 Contact
 
-Contact
+<div align="center">
 
-GitHub: https://github.com/rob-prado
-LinkedIn: https://br.linkedin.com/in/robpradost
-Email: rob.dev.prado@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-rob--prado-181717?style=for-the-badge&logo=github)](https://github.com/rob-prado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rob_Prado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/robpradost)
+[![Email](https://img.shields.io/badge/Email-rob.dev.prado%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rob.dev.prado@gmail.com)
 
-⸻
+</div>
 
-Opportunities
+---
 
-Selectively open to opportunities involving:
+# 🇧🇷 Sobre mim
 
-Senior React Native · Senior Mobile Engineering · Mobile Architecture · React/TypeScript · Developer Tooling
+Engenheiro de software sênior especializado em **React Native, React e TypeScript**, com foco adicional em arquitetura mobile, developer tooling, automação e engenharia de software assistida por IA.
 
-Particularly interested in technically challenging products and engineering environments that value:
+Meu trabalho se concentra em tornar **conhecimento explícito, workflows reproduzíveis e sistemas mais fáceis de compreender e manter**.
 
-* maintainable architecture;
-* strong engineering standards;
-* developer experience;
-* automation and reproducibility;
-* pragmatic AI-assisted development.
+```text
+Principal      → React Native · Engenharia Mobile · TypeScript
+Secundário     → Developer Tooling · CLI · Automação
+Especialização → Engenharia Assistida por IA · Workflows Multiagente
+```
 
-⸻
+---
 
-Sobre (PT-BR)
+## 🎯 Foco
 
-Rob Prado
+### 📱 Engenharia Mobile
 
-Engenheiro Sênior React Native • Arquitetura Mobile • TypeScript • Developer Tooling
+React Native, React, TypeScript, arquitetura mobile, testabilidade, regras de negócio explícitas e integração iOS/Android.
 
-Engenheiro de software sênior com foco em React Native, TypeScript, arquitetura mobile, ferramentas para desenvolvedores e engenharia de software assistida por IA.
+### 🛠️ Developer Tooling & Automação
 
-Trabalho na construção de aplicações mobile sustentáveis e de ferramentas que transformam arquitetura, regras de negócio e processos de desenvolvimento em sistemas explícitos, reproduzíveis e verificáveis.
+CLIs, automação de ambientes, operações idempotentes, scaffolding, health checks, snapshots e detecção de drift.
 
-📍 São Paulo, Brasil · UTC−3
-💼 Senior React Native / Mobile Software Engineer
-🔎 Seletivamente aberto a oportunidades em React Native, Engenharia Mobile, Arquitetura Mobile, React/TypeScript e Developer Tooling
+### 🤖 Engenharia de Software Assistida por IA
 
-⸻
+Ambientes onde agentes trabalham com regras arquiteturais explícitas, conhecimento de negócio, contexto por repositório, verificações automatizadas e revisão humana.
 
-Áreas de Atuação
+---
 
-Engenharia Mobile — Principal
+## 🚀 Projetos
 
-React Native · React · TypeScript · Arquitetura Mobile
+### 🔷 azure-boards-importer
 
-Meu foco principal é construir aplicações mobile de produção priorizando:
+CLI Node.js para transformar itens, anexos e documentos do Azure Boards em **contextos locais estruturados e reproduzíveis**, adequados para documentação e workflows assistidos por IA.
 
-* arquitetura sustentável;
-* regras de negócio explícitas;
-* tipagem forte;
-* fluxos previsíveis de estado e dados;
-* testabilidade;
-* integração nativa com iOS e Android;
-* redução de complexidade acidental.
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=flat-square&logo=github)](https://github.com/rob-prado/azure-boards-importer)
 
-Developer Tooling & Automação
+### 🍎 macos-dev-setup
 
-Node.js · Bash · CLIs · Automação de Ambientes
+Orquestrador modular de ambientes de desenvolvimento macOS baseado em **catálogo + lockfile**, resolução de dependências, snapshots, health checks e detecção de drift.
 
-Desenvolvo ferramentas para tornar processos de engenharia reproduzíveis, incluindo:
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=flat-square&logo=github)](https://github.com/rob-prado/macos-dev-setup)
 
-* ferramentas CLI;
-* automação de ambientes de desenvolvimento;
-* operações idempotentes;
-* scaffolding;
-* orquestração de projetos;
-* health checks;
-* snapshots;
-* detecção de drift;
-* automação de workflows.
+### 📱 capo-cli
 
-Engenharia de Software Assistida por IA — Especialização Emergente
+Framework CLI para aplicações **React Native whitelabel**, combinando orquestração Node.js e execução Bash para automação controlada de projetos nativos iOS e Android.
 
-Exploro como agentes de programação podem operar dentro das mesmas restrições de engenharia aplicadas ao desenvolvimento humano.
+[![Ver repositório](https://img.shields.io/badge/Ver_repositório-181717?style=flat-square&logo=github)](https://github.com/rob-prado/capo-cli)
 
-Isso envolve ambientes com:
+### 🔒 agents-sync
 
-* regras arquiteturais explícitas;
-* conhecimento de negócio documentado;
-* contexto específico por repositório;
-* workflows determinísticos;
-* verificações automatizadas;
-* responsabilidades especializadas entre agentes;
-* revisão humana.
+Meu principal projeto privado de P&D em **developer tooling e engenharia de software assistida por IA**.
 
-O objetivo não é simplesmente gerar mais código com IA, mas tornar o desenvolvimento assistido por IA previsível, verificável e compatível com a arquitetura existente.
+Explora coordenação multiagente, sincronização entre repositórios, regras arquiteturais e de negócio explícitas, contexto compartilhado, verificações automatizadas e workflows auditáveis em macOS e Windows.
 
-⸻
+---
 
-Principais Competências
+## 🧠 Princípios
 
-1. React Native
-2. TypeScript
-3. React
-4. Arquitetura de Software Mobile
-5. Developer Tooling & Automação
-6. Engenharia de Software Assistida por IA
+```text
+Conhecimento explícito   > conhecimento tribal
+Workflows reproduzíveis  > estado específico da máquina
+Operações idempotentes   > scripts frágeis
+Regras de negócio        > condicionais sem contexto
+Verificação              > confiança implícita
+Restrições arquiteturais > geração irrestrita
+Responsabilidade humana  > confiança autônoma
+```
 
-Stack
+---
 
-React Native · React 19 · TypeScript · JavaScript / ESNext · Next.js · Node.js · TanStack Query · Zustand · React Context · React Hook Form · Zod · Jest · React Native Testing Library · Git · Bash / Shell
+## 📬 Contato
 
-⸻
+<div align="center">
 
-Projetos em Destaque
+[![GitHub](https://img.shields.io/badge/GitHub-rob--prado-181717?style=for-the-badge&logo=github)](https://github.com/rob-prado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rob_Prado-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/robpradost)
+[![Email](https://img.shields.io/badge/Email-rob.dev.prado%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rob.dev.prado@gmail.com)
 
-azure-boards-importer
+**[↑ Back to English](#rob-prado)**
 
-CLI em Node.js que transforma itens do Azure Boards e seus materiais relacionados em contextos locais estruturados para engenharia de software.
-
-Importa PBIs, Bugs, Tasks, anexos, imagens e documentos para uma estrutura padronizada e reproduzível, adequada tanto para documentação quanto para utilização como contexto em workflows assistidos por IA.
-
-Destaques: Azure Boards · Node.js CLI · exportação estruturada · anexos · configuração declarativa · contexto para IA
-
-Repositório: https://github.com/rob-prado/azure-boards-importer
-
-⸻
-
-macos-dev-setup
-
-Orquestrador modular para configuração de ambientes de desenvolvimento no macOS, projetado em torno de determinismo, reprodutibilidade e recuperação.
-
-Utiliza catálogo JSON + lockfile, resolução de dependências, integração com mise, snapshots, detecção de drift e health checks para transformar a configuração de uma workstation em um processo reproduzível.
-
-Destaques: Bash · catálogo + lockfile · mise · snapshots · drift detection · health checks · automação idempotente
-
-Repositório: https://github.com/rob-prado/macos-dev-setup
-
-⸻
-
-capo-cli
-
-Framework CLI e de orquestração para aplicações React Native whitelabel.
-
-Combina um orquestrador Node.js com uma camada de execução Bash responsável por mutações controladas nos projetos nativos iOS e Android.
-
-Suporta bootstrapping multi-brand, scaffolding idempotente, injeção dinâmica de assets e configurações e transformações profundas de namespaces nativos.
-
-Destaques: React Native · Node.js · Bash · whitelabel · automação nativa · scaffolding idempotente
-
-Repositório: https://github.com/rob-prado/capo-cli
-
-⸻
-
-agents-sync — Projeto Principal Privado
-
-agents-sync é meu principal projeto privado de pesquisa e desenvolvimento em engenharia de software assistida por IA e workflows multiagente.
-
-O projeto explora como diferentes agentes de programação podem colaborar em múltiplos repositórios mantendo regras arquiteturais, conhecimento de negócio, padrões de engenharia e mecanismos de verificação consistentes.
-
-Entre os temas explorados estão:
-
-* workflows multiagente;
-* regras arquiteturais específicas por projeto;
-* catálogos de regras de negócio;
-* sincronização entre múltiplos repositórios;
-* contexto compartilhado e específico por projeto;
-* configuração determinística;
-* verificações automatizadas;
-* health checks;
-* políticas de execução;
-* operações auditáveis;
-* portabilidade entre macOS e Windows.
-
-O projeto utiliza responsabilidades especializadas entre agentes para implementação, engenharia/arquitetura sênior e revisão/correção, em vez de tratar todos os agentes como equivalentes.
-
-O código permanece privado enquanto a arquitetura e os workflows continuam evoluindo.
-
-⸻
-
-Contribuições Open Source
-
-Contribuidor do ai-memory, projeto open source voltado à infraestrutura de memória persistente para agentes de programação baseados em IA.
-
-https://github.com/akitaonrails/ai-memory
-
-⸻
-
-O que estou explorando
-
-Uma pergunta recorrente por trás dos meus projetos de tooling é:
-
-Como fazer o desenvolvimento assistido por IA se comportar mais como engenharia de software disciplinada e menos como geração irrestrita de código?
-
-Isso envolve transformar:
-
-* decisões arquiteturais;
-* regras de negócio;
-* feedback de revisores;
-* convenções de projeto;
-* requisitos de verificação;
-* responsabilidades dos agentes;
-
-em partes explícitas do ambiente de engenharia, reduzindo a dependência de conhecimento implícito.
-
-⸻
-
-Contato
-
-GitHub: https://github.com/rob-prado
-LinkedIn: https://br.linkedin.com/in/robpradost
-Email: rob.dev.prado@gmail.com
-
-⸻
-
-Oportunidades
-
-Estou seletivamente aberto a oportunidades em:
-
-Senior React Native · Senior Mobile · Arquitetura Mobile · React/TypeScript · Developer Tooling
-
-Tenho maior interesse em produtos tecnicamente desafiadores e ambientes de engenharia que valorizem arquitetura sustentável, padrões técnicos sólidos, developer experience, automação, reprodutibilidade e uso pragmático de IA no desenvolvimento de software.
-
-Back to English
+</div>
