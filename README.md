@@ -81,6 +81,8 @@ Maintains a private flagship project on multi-repo AI-assisted developer tooling
 - LinkedIn: https://br.linkedin.com/in/robpradost  
 - Email: rob.dev.prado@gmail.com
 
+- Contribuidor: repositório **ai-memory** (contributor to the ai-memory repository)
+
 ---
 
 ## Minimal GitHub stats
