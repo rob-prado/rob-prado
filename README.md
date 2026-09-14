@@ -162,25 +162,23 @@ These days that means three things at once: production mobile apps with **type s
 <div align="center">
 
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=rob-prado&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=00F0FF&text_color=C9D1D9&include_all_commits=true&count_private=true"
-  alt="Rob Prado — GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rob-prado&theme=radical"
+  alt="Rob Prado — Profile summary"
+  width="88%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rob-prado&theme=radical"
+  alt="Rob Prado — Commit stats"
+  height="200em"
 />
 <img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF2E97&text_color=C9D1D9"
-  alt="Rob Prado — Top Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rob-prado&theme=radical&utcOffset=-3"
+  alt="Rob Prado — Productive time"
+  height="200em"
 />
 
 <br />
-
-<img
-  height="180em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=rob-prado&theme=dracula&hide_border=true&background=0D1117&ring=FF2E97&fire=00F0FF&currStreakLabel=A020F0"
-  alt="Rob Prado — Contribution Streak"
-/>
-
-<br /><br />
 
 #### 🧪 Language Distribution
 
@@ -192,6 +190,14 @@ These days that means three things at once: production mobile apps with **type s
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rob-prado&theme=radical"
   alt="Top languages by commit"
+  height="200em"
+/>
+
+<br />
+
+<img
+  src="https://streak-stats.demolab.com/?user=rob-prado&theme=dracula&hide_border=true&background=0D1117&ring=FF2E97&fire=00F0FF&currStreakLabel=A020F0&sideLabels=C9D1D9&dates=8B949E"
+  alt="Rob Prado — Contribution Streak"
   height="200em"
 />
 
