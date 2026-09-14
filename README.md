@@ -91,7 +91,7 @@ Senior software engineer building **production mobile systems** with React Nativ
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rob-prado&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F5FF&fire=FF2EC4&currStreakLabel=00F5FF" />
+<img src="https://streak-stats.demolab.com/?user=rob-prado&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F5FF&fire=FF2EC4&currStreakLabel=00F5FF" />
 
 </div>
 
