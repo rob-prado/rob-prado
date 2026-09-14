@@ -40,8 +40,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&langs_count=8&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5"
-    alt="Most Used Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rob-prado&theme=github_dark"
+    alt="Top Languages by Repository"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rob-prado&theme=github_dark"
+    alt="Top Languages by Commit"
   />
 </p>
 
