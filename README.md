@@ -38,7 +38,12 @@
 
 ### Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&langs_count=8&hide_border=true&theme=transparent)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&langs_count=8&hide_border=true&theme=transparent&size_weight=0.5&count_weight=0.5"
+    alt="Most Used Languages"
+  />
+</p>
 
 **[English](#-about-me) · [Português](#-sobre-mim)**
 
