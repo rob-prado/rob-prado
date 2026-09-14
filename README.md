@@ -1,113 +1,542 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2387,100:00F5FF&height=220&section=header&text=ROB%20PRADO&fontSize=60&fontColor=00F5FF&fontAlignY=35&desc=Mobile%20Engineer%20%7C%20React%20Native%20%C2%B7%20React%20%C2%B7%20TypeScript&descAlignY=55&descColor=FF2EC4&animation=fadeIn" width="100%" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:6E00FF,70:FF2E97,100:00F0FF&text=Rob%20Prado&fontColor=FFFFFF&fontSize=62&fontAlign=50&fontAlignY=36&desc=Senior%20React%20Native%20Engineer%20%C2%B7%20Mobile%20Architecture%20%C2%B7%20TypeScript&descAlign=50&descAlignY=58&descSize=17&animation=fadeIn&stroke=00F0FF&strokeWidth=1"
+  alt="Rob Prado — Senior React Native Engineer"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&lines=const+dev+%3D+%22Rob+Prado%22%3B;stack.push('React+Native'%2C+'TypeScript');status%3A+shipping+mobile+systems...;git+commit+-m+%22building+the+future%22" alt="Typing SVG" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=00F0FF&center=true&vCenter=true&width=760&lines=Mobile+systems+built+to+survive+their+second+year.;Developer+tooling+that+makes+setup+reproducible.;AI-assisted+engineering+with+real+guardrails."
+  alt="Typing intro"
+/>
 
-<br/>
+<br />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-robpradost-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0F0C29&labelColor=0F0C29)](https://www.linkedin.com/in/robpradost)
-[![Email](https://img.shields.io/badge/Email-rob.dev.prado-FF2EC4?style=for-the-badge&logo=gmail&logoColor=0F0C29&labelColor=0F0C29)](mailto:rob.dev.prado@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-@rob.dev.prado-8A2387?style=for-the-badge&logo=medium&logoColor=00F5FF&labelColor=0F0C29)](https://medium.com/@rob.dev.prado)
-[![Reddit](https://img.shields.io/badge/Reddit-u/RobPradoDeveloper-00F5FF?style=for-the-badge&logo=reddit&logoColor=0F0C29&labelColor=0F0C29)](https://www.reddit.com/u/RobPradoDeveloper)
+![São Paulo](https://img.shields.io/badge/S%C3%A3o_Paulo-Brazil_%C2%B7_UTC%E2%88%923-0D1117?style=flat-square&labelColor=0D1117&color=FF2E97&logo=googlemaps&logoColor=FF2E97)
+![Focus](https://img.shields.io/badge/Focus-Mobile_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF&logo=react&logoColor=00F0FF)
+![Open to work](https://img.shields.io/badge/Status-Selectively_Open-0D1117?style=flat-square&labelColor=0D1117&color=A020F0&logo=statuspage&logoColor=A020F0)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robpradost-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/robpradost)
+[![Medium](https://img.shields.io/badge/Medium-@rob.dev.prado-0D1117?style=for-the-badge&logo=medium&logoColor=FF2E97&labelColor=0D1117)](https://medium.com/@rob.dev.prado)
+[![Reddit](https://img.shields.io/badge/Reddit-RobPradoDeveloper-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0D1117)](https://www.reddit.com/u/RobPradoDeveloper/s/wBQTemxlSe)
+[![Email](https://img.shields.io/badge/Email-rob.dev.prado@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=A020F0&labelColor=0D1117)](mailto:rob.dev.prado@gmail.com)
+
+<br />
+
+### 🌐 **[English](#-about-me)** · **[Português](#-sobre-mim)**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF2EC4&height=3&width=100%" />
+## 👾 About Me
 
-## 👾 &nbsp;About Me
+I'm **Rob Prado**, a senior engineer who spends most of his days inside **React Native** apps — the kind that ship to real stores, carry real business rules, and still need to be readable a year later.
 
-```javascript
-const rob = {
-  role: "Senior Mobile Engineer",
-  focus: "React Native architecture & developer experience",
-  location: "São Paulo, Brazil 🇧🇷",
-  philosophy: "Ship maintainable systems, not just working code",
-  currentlyExploring: ["AI-assisted engineering", "multi-agent workflows"],
-};
+I got here the long way: mobile products first, then the tooling around them, because half the pain in a codebase never lives in the codebase. It lives in the setup nobody documented, the rule nobody wrote down, the script that only works on one machine.
+
+So my work tends to orbit one idea:
+
+> ### ⚡ Make knowledge explicit, workflows reproducible, and software easier to reason about.
+
+These days that means three things at once: production mobile apps with **type safety, testability and explicit business rules**; CLIs and orchestrators that make an environment rebuildable from scratch; and figuring out how coding agents can work inside real architectural constraints instead of around them.
+
+```text
+▸ Primary       React Native · Mobile Engineering · TypeScript
+▸ Secondary     Developer Tooling · CLI · Automation
+▸ Emerging      AI-Assisted Software Engineering · Multi-Agent Workflows
 ```
 
-Senior software engineer building **production mobile systems** with React Native, React and TypeScript — obsessed with architecture that survives contact with real teams, real deadlines, and real edge cases. Outside the core stack, I move fluidly across backend scripting, native tooling, and cross-platform automation to keep the whole pipeline — not just the app — fast and reliable.
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
 
-<br/>
+## 🎯 Engineering Focus
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2EC4,100:00F5FF&height=3&width=100%" />
+<table>
+<tr>
+<td width="33%" valign="top">
 
-## ⚡ &nbsp;Tech Arsenal
+### 📱 Mobile Engineering
+
+*My primary domain.*
+
+`React Native` `React` `TypeScript`
+`Mobile Architecture` `iOS / Android`
+`State & Data Flows` `Testing`
+`Business Rules` `Native Integration`
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Developer Tooling
+
+*Engineering the environment around the code.*
+
+`Node.js CLIs` `Bash / Shell`
+`Automation` `Scaffolding`
+`Environment Setup` `Idempotency`
+`Health Checks` `Drift Detection`
+`Reproducibility`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI-Assisted Engineering
+
+*Agents inside real constraints.*
+
+`Multi-Agent Workflows`
+`Architectural Rules` `Business Knowledge`
+`Repository Context` `Verification Gates`
+`Agent Specialization`
+`Auditable Workflows` `Human Review`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
+
+## 🧬 Tech Stack
 
 <div align="center">
 
-**🧬 Core Stack**
+#### ⚛️ Core
 
-<img src="https://img.shields.io/badge/React_Native-00F5FF?style=for-the-badge&logo=react&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Next.js-FF2EC4?style=for-the-badge&logo=next.js&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/TypeScript-8A2387?style=for-the-badge&logo=typescript&logoColor=00F5FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/JavaScript-FF2EC4?style=for-the-badge&logo=javascript&logoColor=0F0C29&labelColor=0F0C29" />
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0D1117)
+![React](https://img.shields.io/badge/React_19-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)
+![JavaScript](https://img.shields.io/badge/JavaScript_ESNext-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3DDC84&labelColor=0D1117)
 
-**🛠️ Secondary Stack**
+#### 🧩 Application Engineering
 
-<img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Kotlin-FF2EC4?style=for-the-badge&logo=kotlin&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Swift-8A2387?style=for-the-badge&logo=swift&logoColor=00F5FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Ruby-FF2EC4?style=for-the-badge&logo=ruby&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Bash-00F5FF?style=for-the-badge&logo=gnubash&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Shell-8A2387?style=for-the-badge&logo=gnubash&logoColor=00F5FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/PowerShell-00F5FF?style=for-the-badge&logo=powershell&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/CSS3-FF2EC4?style=for-the-badge&logo=css3&logoColor=0F0C29&labelColor=0F0C29" />
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-0D1117?style=for-the-badge&logo=reactquery&logoColor=FF4154&labelColor=0D1117)
+![Zod](https://img.shields.io/badge/Zod-0D1117?style=for-the-badge&logo=zod&logoColor=3E67B1&labelColor=0D1117)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0D1117?style=for-the-badge&logo=reacthookform&logoColor=EC5990&labelColor=0D1117)
+![Zustand](https://img.shields.io/badge/Zustand-0D1117?style=for-the-badge&logo=redux&logoColor=A020F0&labelColor=0D1117)
+![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117)
+![Testing Library](https://img.shields.io/badge/RN_Testing_Library-0D1117?style=for-the-badge&logo=testinglibrary&logoColor=FF2E97&labelColor=0D1117)
 
-**🖥️ Systems & Platforms**
+#### 📲 Mobile & Native Platform
 
-<img src="https://img.shields.io/badge/Windows-00F5FF?style=for-the-badge&logo=windows11&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/macOS-8A2387?style=for-the-badge&logo=apple&logoColor=00F5FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Linux-FF2EC4?style=for-the-badge&logo=linux&logoColor=0F0C29&labelColor=0F0C29" />
+![iOS](https://img.shields.io/badge/iOS-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=0D1117)
+![Android](https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)
+![Swift](https://img.shields.io/badge/Swift-0D1117?style=for-the-badge&logo=swift&logoColor=F05138&labelColor=0D1117)
+![Kotlin](https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=A020F0&labelColor=0D1117)
+![Ruby](https://img.shields.io/badge/Ruby-0D1117?style=for-the-badge&logo=ruby&logoColor=CC342D&labelColor=0D1117)
+![Xcode](https://img.shields.io/badge/Xcode-0D1117?style=for-the-badge&logo=xcode&logoColor=147EFB&labelColor=0D1117)
+![Gradle](https://img.shields.io/badge/Gradle-0D1117?style=for-the-badge&logo=gradle&logoColor=02C7B0&labelColor=0D1117)
 
-**⚙️ Tooling & Delivery**
+#### 🖥️ Scripting & Automation
 
-<img src="https://img.shields.io/badge/Docker-00F5FF?style=for-the-badge&logo=docker&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/GitHub_Actions-FF2EC4?style=for-the-badge&logo=githubactions&logoColor=0F0C29&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Azure_DevOps-8A2387?style=for-the-badge&logo=azuredevops&logoColor=00F5FF&labelColor=0F0C29" />
-<img src="https://img.shields.io/badge/Git-00F5FF?style=for-the-badge&logo=git&logoColor=0F0C29&labelColor=0F0C29" />
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0D1117)
+![Shell](https://img.shields.io/badge/Shell-0D1117?style=for-the-badge&logo=zsh&logoColor=00F0FF&labelColor=0D1117)
+![PowerShell](https://img.shields.io/badge/PowerShell-0D1117?style=for-the-badge&logo=powershell&logoColor=5391FE&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=0D1117)
+
+#### 🧰 Systems & Delivery
+
+![macOS](https://img.shields.io/badge/macOS-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=0D1117)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=00A4EF&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF2EC4&height=3&width=100%" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
 
-## 📊 &nbsp;GitHub Signal
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rob-prado&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F0C29&title_color=00F5FF&icon_color=FF2EC4&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&hide_border=true&theme=tokyonight&bg_color=0F0C29&title_color=00F5FF&text_color=c9d1d9" />
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=rob-prado&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=00F0FF&text_color=C9D1D9&include_all_commits=true&count_private=true"
+  alt="Rob Prado — GitHub Stats"
+/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rob-prado&layout=compact&langs_count=10&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF2E97&text_color=C9D1D9"
+  alt="Rob Prado — Top Languages"
+/>
 
-<br/>
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rob-prado&theme=tokyo-night&bg_color=0F0C29&color=00F5FF&line=FF2EC4&point=ffffff&hide_border=true" width="100%" />
+<img
+  height="180em"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=rob-prado&theme=dracula&hide_border=true&background=0D1117&ring=FF2E97&fire=00F0FF&currStreakLabel=A020F0"
+  alt="Rob Prado — Contribution Streak"
+/>
 
-<br/><br/>
+<br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rob-prado&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rob-prado&theme=tokyonight" />
+#### 🧪 Language Distribution
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rob-prado&theme=tokyonight&hide_border=true&background=0F0C29&ring=00F5FF&fire=FF2EC4&currStreakLabel=00F5FF" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rob-prado&theme=radical"
+  alt="Top languages by repository"
+  height="200em"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rob-prado&theme=radical"
+  alt="Top languages by commit"
+  height="200em"
+/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2EC4,100:00F5FF&height=3&width=100%" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
 
-## 📬 &nbsp;Let's Connect
+## 🚀 Featured Projects
+
+### 🔷 azure-boards-importer
+
+[![Repository](https://img.shields.io/badge/Repository-azure--boards--importer-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/rob-prado/azure-boards-importer)
+![Node.js](https://img.shields.io/badge/Node.js-CLI-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3DDC84&labelColor=0D1117)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0D1117?style=for-the-badge&logo=azuredevops&logoColor=0078D7&labelColor=0D1117)
+
+> **Turn Azure Boards work items into structured, reproducible engineering contexts.**
+
+A Node.js CLI that imports **PBIs, Bugs, Tasks, attachments, images and documents** from Azure Boards into a standardized local workspace:
+
+```text
+work-item/
+├── 01-context/
+├── 02-tasks/
+├── 03-images/
+├── 04-docs/
+└── README.md
+```
+
+The resulting workspace works as conventional engineering documentation — or as structured context handed to AI-assisted development workflows.
+
+`Azure Boards` · `Structured Context` · `CLI` · `Automation` · `AI Context`
+
+---
+
+### 🍎 macos-dev-setup
+
+[![Repository](https://img.shields.io/badge/Repository-macos--dev--setup-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/rob-prado/macos-dev-setup)
+![Platform](https://img.shields.io/badge/Platform-macOS-0D1117?style=for-the-badge&logo=apple&logoColor=FFFFFF&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0D1117)
+![License](https://img.shields.io/badge/License-MIT-0D1117?style=for-the-badge&logoColor=A020F0&labelColor=0D1117&color=A020F0)
+
+> **Reproducible macOS development environments instead of undocumented workstation state.**
+
+A modular, catalog-driven environment orchestrator:
+
+```text
+Catalog + Lockfile → Dependency Resolution → Installation
+        → Snapshot → Health Check → Drift Detection
+```
+
+| | |
+|---|---|
+| 📦 JSON catalog + lockfile | 🔗 Dependency resolution |
+| 🔧 `mise` integration | 🔍 Project-aware version detection |
+| 📸 Snapshot export/import | 🩺 Environment health checks |
+| ↔️ Drift detection | 🖥️ Optional `gum` TUI |
+| 🧹 Uninstall & cleanup workflows | ♻️ Idempotent operations |
+
+---
+
+### 📱 capo-cli
+
+[![Repository](https://img.shields.io/badge/Repository-capo--cli-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/rob-prado/capo-cli)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=00F0FF&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-Orchestrator-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3DDC84&labelColor=0D1117)
+![Bash](https://img.shields.io/badge/Bash-Executor-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25&labelColor=0D1117)
+
+> **Safe orchestration and native automation for whitelabel React Native applications.**
+
+```text
+             ┌─────────────────────┐
+             │      capo-cli       │
+             │ Node.js Orchestrator│
+             └──────────┬──────────┘
+                        │
+              ┌─────────▼─────────┐
+              │   Bash Executor   │
+              └─────────┬─────────┘
+                        │
+          ┌─────────────┴─────────────┐
+          ▼                           ▼
+     iOS project                 Android project
+```
+
+- Multi-brand bootstrapping · Idempotent scaffolding
+- Dynamic command loading · Firebase configuration injection
+- Icons and bootsplash automation
+- iOS / Android namespace transformations
+- Controlled native project mutations
+
+`React Native` · `Whitelabel` · `Native Automation` · `DX` · `Idempotency`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
+
+## 🧠 Private Flagship — `agents-sync`
+
+![Private](https://img.shields.io/badge/Repository-Private-0D1117?style=for-the-badge&logo=github&logoColor=FF2E97&labelColor=0D1117&color=FF2E97)
+![Status](https://img.shields.io/badge/Status-Active_R%26D-0D1117?style=for-the-badge&logoColor=A020F0&labelColor=0D1117&color=A020F0)
+![Platforms](https://img.shields.io/badge/Platforms-macOS_%7C_Windows-0D1117?style=for-the-badge&logoColor=00F0FF&labelColor=0D1117&color=00F0FF)
+
+> **A multi-repository engineering harness for disciplined AI-assisted software development.**
+
+`agents-sync` is my main private R&D project: an exploration of how coding agents can operate across real repositories while respecting **architecture, business rules, engineering standards, verification requirements and human review**.
+
+```text
+                 ┌─────────────────────┐
+                 │     agents-sync     │
+                 │  Shared Engineering │
+                 │       Context       │
+                 └──────────┬──────────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+       Developer        Senior Eng.     Reviewer /
+         Agent          + Architect      Corrector
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                    Consumer Projects
+```
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 📚 Knowledge
+
+- Architectural rules
+- Business rules
+- Repository conventions
+- Reviewer feedback
+- Project context
+
+</td>
+<td width="33%" valign="top">
+
+#### 🔄 Coordination
+
+- Specialized agents
+- Multi-repository workflows
+- Shared / local context
+- Cross-project synchronization
+- Workflow policies
+
+</td>
+<td width="33%" valign="top">
+
+#### ✅ Verification
+
+- Static checks
+- Verification gates
+- Health checks
+- Deterministic configuration
+- Auditable operations
+
+</td>
+</tr>
+</table>
+
+The goal was never to generate more code with AI.
+
+> ### ⚡ The goal is to make AI-assisted development behave like disciplined software engineering.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
+
+## 🧩 Engineering Principles
+
+```text
+Explicit knowledge       >  tribal knowledge
+Reproducible workflows   >  machine-specific state
+Idempotent operations    >  fragile scripts
+Business rules           >  unexplained conditionals
+Verification             >  assumed correctness
+Architecture constraints >  unconstrained generation
+Human accountability     >  autonomous trust
+```
+
+## 🌱 Open Source
+
+[![ai-memory](https://img.shields.io/badge/Open_Source-ai--memory-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/akitaonrails/ai-memory)
+
+Contributor to **ai-memory**, an open-source project exploring persistent memory infrastructure for AI coding agents.
+
+## 💼 Opportunities
+
+I'm **selectively open** to roles in **Senior React Native · Senior Mobile Engineering · Mobile Architecture · React / TypeScript · Developer Tooling**.
+
+Most interested in teams that actually care about:
+
+`Architecture` · `Engineering Standards` · `Developer Experience` · `Automation` · `Reproducibility` · `Pragmatic AI-Assisted Development`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=0F0C29&labelColor=0F0C29)](https://www.linkedin.com/in/robpradost)
-[![Gmail](https://img.shields.io/badge/Gmail-FF2EC4?style=for-the-badge&logo=gmail&logoColor=0F0C29&labelColor=0F0C29)](mailto:rob.dev.prado@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-8A2387?style=for-the-badge&logo=medium&logoColor=00F5FF&labelColor=0F0C29)](https://medium.com/@rob.dev.prado)
-[![Reddit](https://img.shields.io/badge/Reddit-00F5FF?style=for-the-badge&logo=reddit&logoColor=0F0C29&labelColor=0F0C29)](https://www.reddit.com/u/RobPradoDeveloper)
+## 📬 Let's Talk
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robpradost-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/robpradost)
+[![Email](https://img.shields.io/badge/Email-rob.dev.prado@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=A020F0&labelColor=0D1117)](mailto:rob.dev.prado@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@rob.dev.prado-0D1117?style=for-the-badge&logo=medium&logoColor=FF2E97&labelColor=0D1117)](https://medium.com/@rob.dev.prado)
+[![Reddit](https://img.shields.io/badge/Reddit-RobPradoDeveloper-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0D1117)](https://www.reddit.com/u/RobPradoDeveloper/s/wBQTemxlSe)
+[![GitHub](https://img.shields.io/badge/GitHub-rob--prado-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)](https://github.com/rob-prado)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:8A2387,100:00F5FF&height=100&section=footer" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F0FF,50:FF2E97,100:6E00FF&section=header" width="100%" alt="neon rule" />
+
+# 🇧🇷 Sobre mim
+
+</div>
+
+Sou o **Rob Prado**, engenheiro sênior que passa a maior parte dos dias dentro de aplicações **React Native** — daquelas que vão pra loja de verdade, carregam regra de negócio de verdade e ainda precisam ser legíveis um ano depois.
+
+Cheguei aqui pelo caminho longo: primeiro os produtos mobile, depois o ferramental em volta deles, porque metade da dor de um código nunca está no código. Está no setup que ninguém documentou, na regra que ninguém escreveu, no script que só funciona em uma máquina.
+
+Por isso meu trabalho gira em torno de uma ideia só:
+
+> ### ⚡ Tornar o conhecimento explícito, os workflows reproduzíveis e o software mais fácil de entender.
+
+Na prática, isso são três frentes ao mesmo tempo: apps mobile em produção com **type safety, testabilidade e regras de negócio explícitas**; CLIs e orquestradores que tornam um ambiente reconstruível do zero; e a investigação de como agentes de código podem trabalhar **dentro** de restrições arquiteturais, e não em volta delas.
+
+```text
+▸ Principal      React Native · Engenharia Mobile · TypeScript
+▸ Secundário     Developer Tooling · CLI · Automação
+▸ Especialização Engenharia Assistida por IA · Workflows Multiagente
+```
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
+
+## 🎯 Foco de Engenharia
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📱 Engenharia Mobile
+
+*Meu domínio principal.*
+
+React Native, React, TypeScript, arquitetura mobile, testabilidade, regras de negócio explícitas e integração iOS / Android.
+
+</td>
+<td width="33%" valign="top">
+
+### 🛠️ Tooling & Automação
+
+*Engenharia do ambiente ao redor do código.*
+
+CLIs, automação de ambientes, operações idempotentes, scaffolding, health checks, snapshots e detecção de drift.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Engenharia Assistida por IA
+
+*Agentes dentro de restrições reais.*
+
+Regras arquiteturais explícitas, conhecimento de negócio, contexto por repositório, verificações automatizadas e revisão humana.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
+
+## 🚀 Projetos
+
+### 🔷 azure-boards-importer
+
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/rob-prado/azure-boards-importer)
+
+CLI em Node.js que transforma itens, anexos e documentos do **Azure Boards** em contextos locais estruturados e reproduzíveis — úteis tanto para documentação de engenharia quanto como contexto para workflows assistidos por IA.
+
+### 🍎 macos-dev-setup
+
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/rob-prado/macos-dev-setup)
+
+Orquestrador modular de ambientes de desenvolvimento macOS baseado em **catálogo + lockfile**, com resolução de dependências, snapshots, health checks, detecção de drift e operações idempotentes.
+
+### 📱 capo-cli
+
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117)](https://github.com/rob-prado/capo-cli)
+
+Framework CLI para aplicações **React Native whitelabel**, combinando orquestração em Node.js e execução em Bash para automação controlada dos projetos nativos iOS e Android.
+
+### 🔒 agents-sync
+
+![Privado](https://img.shields.io/badge/Reposit%C3%B3rio-Privado-0D1117?style=for-the-badge&logoColor=FF2E97&labelColor=0D1117&color=FF2E97)
+
+Meu principal projeto privado de P&D em **developer tooling e engenharia assistida por IA**. Explora coordenação multiagente, sincronização entre repositórios, regras arquiteturais e de negócio explícitas, contexto compartilhado, verificações automatizadas e workflows auditáveis em macOS e Windows.
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="divider" />
+</div>
+
+## 🧩 Princípios
+
+```text
+Conhecimento explícito   >  conhecimento tribal
+Workflows reproduzíveis  >  estado específico da máquina
+Operações idempotentes   >  scripts frágeis
+Regras de negócio        >  condicionais sem contexto
+Verificação              >  confiança implícita
+Restrições arquiteturais >  geração irrestrita
+Responsabilidade humana  >  confiança autônoma
+```
+
+## 💼 Oportunidades
+
+Estou **seletivamente aberto** a posições de **React Native Sênior · Engenharia Mobile Sênior · Arquitetura Mobile · React / TypeScript · Developer Tooling**.
+
+Tenho mais interesse em times que levam a sério:
+
+`Arquitetura` · `Padrões de Engenharia` · `Developer Experience` · `Automação` · `Reprodutibilidade` · `IA Aplicada com Pragmatismo`
+
+<div align="center">
+
+## 📬 Vamos conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robpradost-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117)](https://www.linkedin.com/in/robpradost)
+[![Email](https://img.shields.io/badge/Email-rob.dev.prado@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=A020F0&labelColor=0D1117)](mailto:rob.dev.prado@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-@rob.dev.prado-0D1117?style=for-the-badge&logo=medium&logoColor=FF2E97&labelColor=0D1117)](https://medium.com/@rob.dev.prado)
+[![Reddit](https://img.shields.io/badge/Reddit-RobPradoDeveloper-0D1117?style=for-the-badge&logo=reddit&logoColor=FF4500&labelColor=0D1117)](https://www.reddit.com/u/RobPradoDeveloper/s/wBQTemxlSe)
+
+**[↑ Back to English](#-about-me)**
+
+<img src="https://komarev.com/ghpvc/?username=rob-prado&style=for-the-badge&color=FF2E97&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00F0FF,40:FF2E97,100:0D1117&text=Ship%20it.%20Then%20maintain%20it.&fontColor=FFFFFF&fontSize=24&fontAlignY=72&animation=fadeIn"
+  alt="footer"
+/>
 
 </div>
